@@ -1,0 +1,124 @@
+body
+{
+	background-color:#a5a8d8;
+	
+}
+.main
+{
+	margin:auto;
+	width:75%;
+	background-color:white;
+	color:blue;
+	
+}
+.main p, h2, h3
+{
+	padding-left:5px;
+}
+.header
+{
+	width:100%;
+	border:solid #121862 1px;
+}
+.header img
+{
+	padding:5px;
+	height:100px;
+}
+.headerleft{
+	width:25%;
+	float:left;
+}
+.headerright
+{
+	width:75%;
+	float:left;
+}
+
+.headerright a 
+{
+	text-decoration:none;
+	font-size:22px;
+	padding-left:10px;
+	
+}
+.headerright a:hover
+{
+	color:white;
+}
+.headerrightup
+{
+	height:50px;
+}
+.headerrightdown
+{
+}
+.banner
+{
+	width:100%;
+	border:solid #121862 1px;
+}
+.banner img
+{
+	width:100%;
+}
+.sidemenu
+{
+	width:24%;
+	background-color:white;
+	border:solid #121862 1px;
+	float:left
+}
+.sidemenu a 
+{
+	text-decoration:none;
+	font-size:22px;
+	padding-left:10px;
+	
+}
+.sidemenu a:hover{
+	color:white;
+}
+.sidemenuheader
+{
+	background-color:blue;
+	color:white;
+	width:98%;
+	padding:2px;
+	font-size:24px;
+}
+	
+.side{
+	width:75%;
+	border:solid #121862 1px;
+	margin-left:5px;
+	float:left;
+	background-color:white;
+}
+.side a 
+{
+	text-decoration:none;
+	font-size:22px;
+	padding-left:10px;	
+}
+.side a:hover{
+	color:white;
+}
+
+.items
+{
+	width:200px;
+	border:solid #121862 1px;
+	margin-left:3px;
+	float:left;
+	
+}
+.items img
+{
+	width:200px;
+	height:200px;
+}
+.items p
+{
+	padding-left:10px;
+}
